@@ -1,1 +1,1 @@
-console.log('蕊蕊');
+console.log('小蕊蕊')
