@@ -1,2 +1,2 @@
 console.log('ruirui');
-console.log('Hello ruirui');
+console.log('Hello World');
